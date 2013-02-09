@@ -13,10 +13,10 @@ object StringCalculator {
 				calcIter(tail, acc)
 			}
 			case head::tail => { 
-				calcIter(tail, head.toInt + acc)
+				calcIter(tail, head.toInt - 48 + acc)
 			}
 		}
-		calcIter(input.toSeq, 0)
+		calcIter(input.toList, 0)
 	}
 }
 
