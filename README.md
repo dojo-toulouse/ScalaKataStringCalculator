@@ -29,4 +29,5 @@ Et il faut aussi une machine virtuelle Java.
 
 # Coding Dojo
 
-* Mis en oeuvre lors d'un Coding Dojo à Toulouse le 8 février 2013 (résultat disponible sur la branche `20130208`)
+* Mis en oeuvre lors d'un Coding Dojo Scala #1 à Toulouse le 8 février 2013 (résultat disponible sur la branche `20130208`)
+* Mis en oeuvre lors d'un Coding Dojo Scala #2 à Toulouse le 4 mars 2013 (résultat disponible sur la branche `20130304`)
